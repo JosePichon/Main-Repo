@@ -1,0 +1,3 @@
+[submodule "sub-module-repo"]
+	path = sub-module-repo
+	url = https://github.com/JosePichon/sub-module-repo.git
